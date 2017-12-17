@@ -5,8 +5,8 @@ body {
     
 }
 #headerimage {
-    width: 500px;
-    height: 115px;
+    width: 450px;
+    height: 100px;
 
 }
 
@@ -37,5 +37,5 @@ body {
 }
 
 #subhead {
-    font-size: 25px;
+    font-size: 24px;
 }
