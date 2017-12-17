@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+}
+#headerimage {
+    width: 500px;
+    height: 115px;
+
+}
+
+#mainimage {
+    width: 500px;
+    height: 500px;
+    margin-left: 80px;
+}
+
+#footer {
+    background-color: rgba(30, 107, 174, 0.58);
+    font: white;
+}
+
+#footerdown {
+    background-color: black;
+    font: white;
+}
+
+#videothumbnail{
+    height: 50%;
+    width: 50%;
+    float: center;
+}
+
+#head {
+    font-size: 64px;
+}
+
+#subhead {
+    font-size: 25px;
+}
